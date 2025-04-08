@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name's Roberto Pantoja and I'm currently working at IBM whiile pursuing a part-time master's of Computer Science at Georgia Tech.
+
+I'm passionate about about Machine Learning & Software Systems!
+
+## Skills
+
+- 👨‍💻 Python, JavaScript, TypeScript, Go
+- ⚙️ PyTorch, NumPy, Pandas, Flask, React, tailwind
+
+## 📫 How to reach me:
+
+- Email: robertopantojabacallao@gmail.com
+- Phone: (786) 519-9611📧
