@@ -27,4 +27,4 @@ I'm passionate about about Machine Learning & Software Systems!
 ## 📫 How to reach me:
 
 - Email: robertopantojabacallao@gmail.com
-- Phone: (786) 519-9611📧
+- Phone: (786) 519-9611
