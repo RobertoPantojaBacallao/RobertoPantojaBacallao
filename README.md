@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name's Roberto Pantoja and I'm currently working at IBM whiile pursuing a part-time master's of Computer Science at Georgia Tech.
+My name's Roberto Pantoja and I'm currently working at IBM while pursuing a part-time master's of Computer Science at Georgia Tech.
 
 I'm passionate about about Machine Learning & Software Systems!
 
